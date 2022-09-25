@@ -9,6 +9,9 @@ public class CafeJava {
 
         // TODO Create 3 more drink price variables, for drip coffee, latte and cappuccino following the camel case naming convention.
         double mochaPrice = 3.5;
+        double dripCoffeePrice = 2.0;
+        double lattePrice = 4.5;
+        double cappucinoPrice = 2.5;
 
         // TODO Create 3 more customer variables for Sam, Jimmy and Noah, following the same variable naming convention in the example.
         String customer1 = "Cindhuri";
