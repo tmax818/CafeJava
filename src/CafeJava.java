@@ -11,7 +11,7 @@ public class CafeJava {
         double mochaPrice = 3.5;
         double dripCoffeePrice = 2.0;
         double lattePrice = 4.5;
-        double cappucinoPrice = 2.5;
+        double cappuccinoPrice = 2.5;
 
         // TODO Create 3 more customer variables for Sam, Jimmy and Noah, following the same variable naming convention in the example.
         String customer1 = "Cindhuri";
@@ -33,7 +33,7 @@ public class CafeJava {
         // TODO Noah ordered a cappuccino. Use an if statement to check the status of his order and print the correct status message. If it is ready, also print the message to display the total. Note: Outcomes may be different depending on what you assigned as the status.
         if (isReadyOrder4) {
             System.out.println(customer4 + readyMessage);
-            System.out.println(displayTotalMessage + cappucinoPrice);
+            System.out.println(displayTotalMessage + cappuccinoPrice);
         }
         else {
             System.out.println(customer4 + pendingMessage);
